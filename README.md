@@ -162,7 +162,7 @@ class Yash:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iyashsoni&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=10b981&currStreakLabel=0ea5e9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" height="170" />
+<img src="https://streak-stats.demolab.com/?user=iyashsoni&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=10b981&currStreakLabel=0ea5e9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" height="170" alt="streak stats" />
 
 <br/><br/>
 
@@ -227,7 +227,11 @@ EXAMPLES
 
 <div align="center">
 
-<img src="https://github.com/iyashsoni/iyashsoni/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" onerror="this.style.display='none'" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iyashsoni/iyashsoni/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iyashsoni/iyashsoni/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake eating my commits" src="https://raw.githubusercontent.com/iyashsoni/iyashsoni/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
