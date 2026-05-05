@@ -157,7 +157,7 @@ class Yash:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iyashsoni&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iyashsoni&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyashsoni&layout=compact&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a&langs_count=8" />
 
 <br/>
