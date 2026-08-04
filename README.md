@@ -73,7 +73,7 @@ flowchart LR
 
     subgraph WORKLOADS["⚙️ workloads"]
         IBM[IBM Cloud<br/>Object Storage]
-        SIDE[side quests<br/>airmesh · flint · unopomo · tinyfiles]
+        SIDE[side quests<br/>airmesh · flint · unopomo<br/>tinyfiles · openscan · sutra]
         CAP[capital<br/>slow, compounding]
     end
 
@@ -119,6 +119,8 @@ flowchart LR
 | 🔥 **Flint** | offline-first habit tracker PWA, streaks that survive flight mode | because discipline shouldn't require Wi‑Fi |
 | 🍅 **Unopomo** | pomodoro with ambient soundscapes & themes, multilingual | because focus is a UX problem |
 | 📦 **tinyfiles** | in-browser PDF / image compression — nothing leaves your device | because privacy is the new performance |
+| 🧵 **Sutra** | living architecture diagrams — plain English in, editable canvas out (AI, bring your own key) | because diagrams shouldn't die the day the system changes |
+| 🩻 **OpenScan** | open-source, local-first DICOM workspace — desktop (Tauri) + browser | because viewing your own scans shouldn't require someone else's cloud |
 
 <sub>Theme: <strong>local-first, privacy-first, friction-last.</strong></sub>
 
